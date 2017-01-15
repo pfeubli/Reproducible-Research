@@ -1,4 +1,4 @@
-# Reproducible-Research
+# Reproducible Research
 
 Introduction
 
